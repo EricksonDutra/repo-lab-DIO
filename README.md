@@ -1,2 +1,3 @@
-# repo-desafio-git-DIO
-Desafio relacionado ao lab criando repositório para compartilhar progresso
+# DESAFIO DE PROJETO SOBRE GIT/GITHUB DA DIO
+
+<li> Repositório Criado para o Desafio de Projeto.
